@@ -2,7 +2,7 @@
 
 #init
 initCount=0
-logs=/home/c2007f0687666/log-tele.txt
+logs=/home/c2007f0687/log-tele.txt
 
 #File
 msg_caption=/tmp/telegram_msg_caption.txt
