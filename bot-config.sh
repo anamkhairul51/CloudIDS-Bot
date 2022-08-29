@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #init
+#cek
 initCount=0
 logs=/home/c2007f0687/log-tele.txt
 
