@@ -9,8 +9,8 @@ logs=/home/c2007f0687/log-tele.txt
 msg_caption=/tmp/telegram_msg_caption.txt
 
 #Chat ID dan bot token Telegram
-chat_id="-683641881"
-token="5749168927:AAFjy55vGQRZoEcKSXcG-MlllFa40jd_Im4"
+chat_id="xxxxx"
+token="xxxxx"
 
 #kirim
 function sendAlert
